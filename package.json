@@ -1,0 +1,24 @@
+{
+  "name": "formest",
+  "version": "1.0.0",
+  "description": "A minimal forms library for React",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tylerwray/formest.git"
+  },
+  "keywords": [
+    "react",
+    "forms",
+    "minimal"
+  ],
+  "author": "Tyler Wray <wraytw@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tylerwray/formest/issues"
+  },
+  "homepage": "https://github.com/tylerwray/formest#readme"
+}
